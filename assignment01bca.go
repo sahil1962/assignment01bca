@@ -1,4 +1,4 @@
-package assignment01bca
+package github.com/sahil1962/assignment01bca
 
 import (
 	"crypto/sha256"
